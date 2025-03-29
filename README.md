@@ -1,10 +1,10 @@
 # Web Development Project 4 - *Name of App Here*
 
-Submitted by: **Your Name Here**
+Submitted by: **Wuilmer Palacios**
 
-This web app: **insert description**
+This web app: **cat api**
 
-Time spent: **X** hours spent in total
+Time spent: **8** hours spent in total
 
 ## Required Features
 
